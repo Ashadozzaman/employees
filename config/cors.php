@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'paths' => ['api/*'],
+    'paths' => ['http://localhost/employees/public/api/*'],
     // 'paths' => [''],
 
     'allowed_methods' => ['*'],
